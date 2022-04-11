@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/llyzmp/change-test/compare/v1.0.0...v1.1.0) (2022-04-11)
+
+
+### Features
+
+* 修改readme ([8b53fc1](https://github.com/llyzmp/change-test/commit/8b53fc1a15df161862930fddf6433b0199336133))
+
 # 1.0.0 (2022-04-11)
 
 
