@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/llyzmp/change-test/compare/v1.1.0...v1.2.0) (2022-04-11)
+
+
+### Features
+
+* 继续测试 ([bcbc4b8](https://github.com/llyzmp/change-test/commit/bcbc4b86cd56357cb40c3ddb822789033a850caf))
+
 # [1.1.0](https://github.com/llyzmp/change-test/compare/v1.0.0...v1.1.0) (2022-04-11)
 
 
